@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moyasu
-- 👀 I’m interested in k8s
+- 👀 I’m interested in k8s ML
 - 🌱 I’m currently learning k8s
 - 💞️ I’m looking to collaborate on k8s
 - 📫 liusu8788@gmail.com
